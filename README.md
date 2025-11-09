@@ -22,7 +22,7 @@ It focuses on cleaning messy numeric data, computing 15 scientific KPIs, and vis
 ### 📂 Files Included
 - `chemical_elements_analysis.ipynb` – Jupyter Notebook with full code  
 - `cleaned_elements.xlsx` – cleaned dataset  
-- `presentation.pptx` – PowerPoint summary with visual KPIs  
+- `Chemical_Elements_Project_Styled.pptx` – PowerPoint summary with visual KPIs  
 - `requirements.txt` – Python dependencies list  
 
 ---
