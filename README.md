@@ -30,7 +30,7 @@ It focuses on cleaning messy numeric data, computing 15 scientific KPIs, and vis
 ### ⚙️ How to Run
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/AymanBerri/wikipedia-elements-analysis.git
+   git clone https://github.com/AymanBerri/Wikipedia-Elements-Analysis.git
    cd wikipedia-elements-analysis
    ```
 
