@@ -52,4 +52,4 @@ It focuses on cleaning messy numeric data, computing 15 scientific KPIs, and vis
   jupyter notebook
   ```
 
-Open chemical_elements_analysis.ipynb to explore the code and visualizations.
+Open Web Scraping Proj 1 to explore the code and visualizations.
